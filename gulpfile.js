@@ -10,7 +10,7 @@ const gulp         = require('gulp');
 const htmlPartial  = require('gulp-html-partial');
 const notify       = require('gulp-notify');
 const plumber      = require('gulp-plumber');
-const sass         = require('gulp-sass');
+const sass         = require('gulp-sass')(require('sass'));
 const sourcemaps   = require('gulp-sourcemaps');
 const uglify       = require('gulp-uglify-es').default;
 
