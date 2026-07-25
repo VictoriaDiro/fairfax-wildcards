@@ -19,7 +19,8 @@
 		"gulp-sourcemaps": "*",
 		"gulp-uglify-es": "^1.0.4",
 		"gulp-zip": "*",
-		"run-sequence": "*"
+		"run-sequence": "*",
+		"sass": "^1.77.0"
 	},
 	"overrides": {
 		"graceful-fs": "^4.2.11"
