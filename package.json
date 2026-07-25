@@ -21,6 +21,9 @@
 		"gulp-zip": "*",
 		"run-sequence": "*"
 	},
+	"overrides": {
+		"graceful-fs": "^4.2.11"
+	},
 	"scripts": {
 		"start": "gulp",
 		"test": "echo \"Error: no test specified\" && exit 1"
