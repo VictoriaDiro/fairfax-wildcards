@@ -7,7 +7,7 @@
 		"del": "^3.0.0",
 		"eslint": "^4.19.1",
 		"gulp": "^4.0.0",
-		"gulp-autoprefixer": "*",
+		"gulp-autoprefixer": "^8.0.0",
 		"gulp-clean-css": "*",
 		"gulp-combine-mq": "*",
 		"gulp-concat": "*",
